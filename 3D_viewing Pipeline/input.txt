@@ -1,0 +1,15 @@
+.8 1.2 1.6
+1 1 1
+0 2 0
+6
+4.3
+18
+2 2 1.2 1.2
+
+ //vrp       -> realworld coordinate of object
+ //nor       -> coordinate of viewing co-ordinate system with respect to the real world
+ //up        -> coordinate of up-direction of viewing eye with respect to the real world
+ //eye       -> eyeposition (or view point disance)
+ //n         -> near planedistance of vision to eye
+ //f         -> far planedistance of vision to eye
+ //l r t b   -> the view plane dimensions
