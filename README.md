@@ -7,3 +7,7 @@ Number of Projects : 4
 1)Ray Tracer
 
 Implemented Recursive RayTracing with global and local illumination model
+
+2) PixarAnimation
+
+Pixar animation is implemented with Hierarchical modeling
