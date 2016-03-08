@@ -6,4 +6,4 @@ Number of Projects : 4
 
 1)Ray Tracer
 
-Implemented Recursive RayTracing with global and local illumination model
+Implemented Recursive RayTracing with the help of global and local illumination model
